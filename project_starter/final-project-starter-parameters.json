@@ -1,0 +1,20 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ProjectTwo"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-0747bdcabd34c712a"
+	},
+	{
+		"ParameterKey": "KeyNamePair",
+		"ParameterValue": "ProjectTwoKeyPair"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
+	}
+	
+	
+]
